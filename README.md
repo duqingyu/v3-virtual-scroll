@@ -5,7 +5,7 @@
 ## 安装使用
 
 ```
-npm install v3VirtualScroll -S
+npm install v3-virtual-scroll -S
 ```
 
 ## 使用示例
@@ -39,7 +39,7 @@ npm install v3VirtualScroll -S
 
 ```javascript
 <script setup>
-import v3VirtualScroll from 'v3-virtual-scrolle'
+import v3VirtualScroll from 'v3-virtual-scroll'
 import { ref, reactive } from 'vue'
 
 let list = reactive([])

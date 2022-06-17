@@ -30,6 +30,7 @@
 <script setup lang="ts">
 import { ref, reactive, onMounted } from 'vue'
 import v3VirtualScroll from '~/packages/v3-virtual-scroll/Index.vue'
+// import v3VirtualScroll from 'v3-virtual-scroll'
 import Loading from '@/components/loading/Index.vue'
 import * as Api from '@/api'
 
